@@ -1,0 +1,18 @@
+html, body {
+    font-family: 'Nova Flat';
+    background: #1a1a1a;
+    height: 100%
+}
+.container {
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.text {
+    font-weight: 100;
+    font-size: 50px;
+    color: #9c1806;
+}
+.dud {color: #9c1806}
